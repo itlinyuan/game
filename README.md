@@ -1,6 +1,6 @@
 game
 ====
 
-可以玩的
+no chinese
 
 i am testing conflict
