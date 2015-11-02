@@ -1,8 +1,14 @@
 hello world,
 this is my first git project!
 my name is Rondo Lin
-
-
 hihi,this is testing
-asdfa
-asg
+
+
+resolve conflict
+
+
+111
+222222
+sdf
+
+
